@@ -1,4 +1,4 @@
-## Hi~ I'am BX·BI designer👋
+<h1>Hi~ I'am BX·BI designer👋<h1>
 
 :blush: I mainly work on brand experience and brand identity (BX/BI), but I also do typography, video editing, poster design, shooting with Sony and Canon cameras, and basic 3D modeling. Additionally, I’m self-studying HTML and CSS.
 
