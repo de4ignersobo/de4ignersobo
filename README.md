@@ -2,7 +2,7 @@
 
 :blush: I mainly work on brand experience and brand identity (BX/BI), but I also do typography, video editing, poster design, shooting with Sony and Canon cameras, and basic 3D modeling. Additionally, I’m self-studying HTML and CSS.
 
-:blue_heart: I'm interested in public institution branding, bid proposal PPTs, urban regeneration, local communities, and volunteer work.
+:blue_heart: I'm interested in public institution branding, bid proposal PPT, urban regeneration, local communities, and volunteer work.
 
 <!--
 **de4ignersobo/de4ignersobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
