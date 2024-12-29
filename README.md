@@ -1,4 +1,4 @@
-<h1>Hi~ I am a job applicant who wants to work in the UX·UI design job.👋</h1>
+<h3>Hi~ I am a job applicant who wants to work in the UX·UI design job.👋</h3>
 
 <!--
 **de4ignersobo/de4ignersobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
